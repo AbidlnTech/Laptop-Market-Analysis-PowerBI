@@ -29,6 +29,3 @@ This project analyzes laptop market trends using Power BI.
 - Cleaned_Data → Processed dataset
 - PowerBI → Dashboard file
 - Screenshots → Dashboard images
-
-## Dashboard Preview
-![Dashboard](ScreenShots/Screenshot 2026-05-06 123054.png)
